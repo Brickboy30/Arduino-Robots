@@ -1,9 +1,3 @@
-/*!
-    @file     controller.ino
-    @author   ladyada, ktown (Adafruit Industries)
-
-*/
-/**************************************************************************/
 #include <string.h>
 #include <Arduino.h>
 #include <SPI.h>
